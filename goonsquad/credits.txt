@@ -20,3 +20,7 @@ Misc. Credits:
 SDK2013 Community Edition: Nbc66
 HL2 Grappling Hook Tutorial: VDC, Obsidian Conflict Team, Maestro Fenix
 Temporary Player Model Menu Fix by Jora_ on Gamebanana https://gamebanana.com/mods/35036
+
+About Goonsquad Classic:
+This is an archive/continuation of the original concept for this mod, maintained by AlphaBlaster.
+Mostly will be used as a coding and mapping sandbox.
